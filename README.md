@@ -13,33 +13,38 @@ Hello world! I'm Aya Omar Abdeltawab, a 4th-year Computer Science student specia
 - 👯 Looking to collaborate on projects that make people say, "Wow, that's cool!" and not, "What were they thinking?"
 - 🤔 Often found pondering the meaning of life, the universe, and why my code doesn’t compile.
 - 💬 Ask me about AI, ML, data science, or how to debug your life (disclaimer: results may vary).
-- 📫 You can reach me at [ayamousa156@gmail.com](mailto:ayamousa156@gmail.com) for serious inquiries or just to share a good meme.
 
-## Skills
 
+
+<h2>⚙️Skills</h2>
+
+<h3>👉 Languages</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Deep%20Learning-%23FF6F61.svg?style=for-the-badge&logo=deep-learning&logoColor=white" alt="Deep Learning">
-  <img src="https://img.shields.io/badge/Machine%20Learning-%230099CC.svg?style=for-the-badge&logo=machine-learning&logoColor=white" alt="Machine Learning">
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-
-  <img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX">
-  <img src="https://img.shields.io/badge/OOP-%23008000.svg?style=for-the-badge" alt="OOP">
-  <img src="https://img.shields.io/badge/Data%20Structures-%230080FF.svg?style=for-the-badge" alt="Data Structures">
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7qDYIwHn6MJ5Ugsg/giphy.gif" alt="bye GIF" width="300">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,mysql" />
+  </a>
 </p>
 
 
 
+<h3>👉 Tools & Editors</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,anaconda"/>
+  </a>
+</p>
+
+<h3>👉 General</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,linux,notion,latex"/>
+  </a>
+</p>
+
+<h2>💬contact </h2>
+You can reach me  for serious inquiries or just to share a good meme.
 
 
-
-## Contact
 
 <p align="center">
   <a href="mailto:ayamousa156@gmail.com">
