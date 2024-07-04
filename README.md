@@ -21,7 +21,7 @@ Hello world! I'm Aya Omar Abdeltawab, a 4th-year Computer Science student specia
 <h3>👉 Languages</h3>
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,mysql" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,sqlserver" />
   </a>
 </p>
 
